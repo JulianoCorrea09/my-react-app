@@ -14,6 +14,9 @@ const myelement = (
     <tr>
       <td>Elsa</td>
     </tr>
+    <tr>
+      <td>Elsa</td>
+    </tr>
   </table>
 );
 
